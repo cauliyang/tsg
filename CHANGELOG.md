@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+## [0.1.2](https://github.com/cauliyang/tsg/compare/v0.1.1...v0.1.2) - 2025-03-06
+
+### Added
+
+- Add clap-markdown support and tsg-cli changes
+- Add logo to README and refine TSG logo
+
+### Fixed
+
+- Update exon_id values in NodeData to start from 1
+
+### Other
+
+- Update README.md
+- Update file format descriptions in CLI module
+- Update TSG file format documentation
+
 ## [0.1.1](https://github.com/cauliyang/tsg/compare/v0.1.0...v0.1.1) - 2025-03-05
 
 ### Added
